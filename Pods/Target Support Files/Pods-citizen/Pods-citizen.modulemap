@@ -1,0 +1,6 @@
+framework module Pods_citizen {
+  umbrella header "Pods-citizen-umbrella.h"
+
+  export *
+  module * { export * }
+}
