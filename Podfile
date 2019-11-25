@@ -8,6 +8,6 @@ target 'citizen' do
   # Pods for citizen
 pod 'Firebase'
 pod 'Firebase/Auth'
-pod 'RealmSwift'
+pod 'RealmSwift', '~> 3.20.0'
 pod 'Firebase/Database'
 end
